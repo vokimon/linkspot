@@ -1,5 +1,8 @@
 # linkspot - My personal list of documentation and resources
 
+- [Web App framewoks comparision](http://noeticforce.com/best-Javascript-frameworks-for-single-page-modern-web-applications)
+
+
 ## Web - Angular
 
 - [UI Tree](http://jimliu.github.io/angular-ui-tree/) widget resulton para editar jerarquias.
