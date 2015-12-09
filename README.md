@@ -30,6 +30,10 @@
 - [buttondown css theme](https://gist.github.com/ryangray/1882525)
 - [wkhtmltopdf](http://wkhtmltopdf.org/) conversor html a pdf (commandline, lib)
 
+## Encryption
+
+- [Tutorial on using pycrypto](http://www.laurentluce.com/posts/python-and-cryptography-with-pycrypto/)
+
 ## Systems
 
 - [Persistent encrypted liveusb](https://archimedesden.wordpress.com/2013/09/12/encrypted-persistent-storage-on-ubuntu-livecd/)
