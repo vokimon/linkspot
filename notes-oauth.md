@@ -1,5 +1,7 @@
+# Notes on OAuth
 
 
+http://www.slideshare.net/rohitsghatol/oauth-20-simplified
 
 ## Roles
 
