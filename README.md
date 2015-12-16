@@ -30,6 +30,10 @@
 - [buttondown css theme](https://gist.github.com/ryangray/1882525)
 - [wkhtmltopdf](http://wkhtmltopdf.org/) conversor html a pdf (commandline, lib)
 
+## Web - Wordpress
+
+- [maintaining wordpress upgrades using git](https://github.com/fadookie/wp-upgrade) Not Gui triggered :-(
+
 ## Encryption
 
 - [Tutorial on using pycrypto](http://www.laurentluce.com/posts/python-and-cryptography-with-pycrypto/)
