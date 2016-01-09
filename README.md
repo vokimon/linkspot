@@ -18,6 +18,9 @@
 
 - [Printing css styles](http://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 - Editores Markdown
+  - [SimpleMDE](http://nextstepwebs.github.io/simplemde-markdown-editor/) Preferred, styled source, side-by-side option, preview
+  - [Hallo](http://hallojs.org/demo/markdown/): Inplace, source, buttons
+  - [Markdown-WYSIWYG](http://md-wysiwyg.sourceforge.net/cgi-bin/cgi_wysiwyg_test.py/) Simple, en python
   - [StackEdit](https://stackedit.io/editor) Side by side editor (Local storage, github, drive, cloud...)
   - [Dillinger](http://dillinger.io/) Side by side editor (Local storage, github, drive, cloud...)
   - [Markable](http://markable.in/) Side by Side editor. Closed source
